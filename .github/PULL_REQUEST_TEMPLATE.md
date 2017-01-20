@@ -15,4 +15,3 @@ Yes/No
 
 ### Docs updated?
 Please add a matching PR to [the docs repo](http://github.com/eclipse/che-docs) and link that PR to this issue. Both will be merged at the same time. 
-
